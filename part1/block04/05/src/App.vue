@@ -3,6 +3,7 @@
     <h1>{{ msg }}</h1>
 
     <app-car></app-car>
+<!--    <app-car/>-->
   </div>
 </template>
 
