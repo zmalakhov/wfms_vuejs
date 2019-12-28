@@ -1,7 +1,7 @@
 import Vue from 'vue'
 import App from './App.vue'
 
-export const eventEmmiter = new Vue()
+// export const eventEmmiter = new Vue()
 
 new Vue({
   el: '#app',
